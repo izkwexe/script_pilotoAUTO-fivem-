@@ -1,1 +1,4 @@
-# script_pilotoAUTO-fivem-
+# SCRIPT DE PILOTO AUTOMÁTICO
+Esse script é bem simple
+
+# framework > VRPex/VRP
